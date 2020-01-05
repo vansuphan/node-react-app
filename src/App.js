@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Phan Van Su
+          Phan Su
         </a>
       </header>
     </div>
